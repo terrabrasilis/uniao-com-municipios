@@ -1,5 +1,5 @@
-# Página para o treinamento
+# Página para o evento
 
-## Explorando as potencialidades da plataforma TerraBrasilis para monitoramento do desmatamento
+## Programa união com municípios: capacitação em sistemas de monitoramento de desmatamento e degradação no âmbito das plataformas do INPE e IBAMA
 
-https://terrabrasilis.github.io/treinamento-dados-aplicacoes/
+https://terrabrasilis.github.io/uniao-com-municipios/
